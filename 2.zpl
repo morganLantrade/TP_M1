@@ -112,3 +112,42 @@ subto q1_2:
   forall <d> in Days:
     forall <s> in Services:
       (sum<p> in Personnes : assigned[p,d,s])-y[d,s]+z[d,s]== requirement[d,s];
+
+subto q2_1:
+  forall <p> in Personnes:
+    forall <d> in Days:
+      sum<s> in Services : assigned[p,d,s] <= 1;
+
+subto q2_2:
+  forall <d> in Days:
+    forall <p> in Personnes:
+      forall <s> in Services:
+        assigned[p,d,s] <= 1-dayOff[p,d] ;
+
+subto q2_3:
+  forall <p> in Personnes:
+    forall <s> in Services:
+      sum <d> in Days: assigned[p,d,s]<= MaxShift[p,s];
+
+subto q2_4_1:
+  forall <p> in Personnes:
+    (sum <s> in Services : sum <d> in Days : assigned[p,d,s]*duree[s]) <= MaxTotalMinutes[p];
+
+subto q2_4_2:
+forall <p> in Personnes:
+    (sum <s> in Services : sum <d> in Days : assigned[p,d,s]*duree[s]) >= MinTotalMinutes[p];
+
+subto q3_1:
+  forall <p> in Personnes:
+    forall <d> in Days with d<(horizon-MaxConsecutiveShifts[p]) :
+      (sum <j> in { d..d+MaxConsecutiveShifts[p]} : sum <s> in Services : assigned[p,j,s]) <= MaxConsecutiveShifts[p];
+
+
+subto q3_2:
+   forall <d> in Days with d<horizon-1:
+      forall <p> in Personnes:
+        forall <s1> in Services:
+          forall <s2> in Services:
+            (2-ForbiddenSeq[s1,s2]-assigned[p,d,s1]) >= assigned[p,d+1,s2];
+
+
