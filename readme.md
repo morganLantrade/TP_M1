@@ -1,5 +1,4 @@
 # Projet : Constitution dynamique d’un modèle de performance de voilier par apprentissage
-
 **-Client :** M. GiIles LEPINARD
 
 **-Enseignant référent:** M. GiIles LEPINARD
@@ -28,8 +27,23 @@ Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](
 ## Organisation du projet
 
 ### Rôles
+L'essentiel du projet sera réalisé avec une approche itérative par ordre de priorité.
+Nous travaillerons essentiellement en groupe et définirons au début de la réalisation du projet des responsables pour chaque livrable du développement.
+- Responsable projet: à définir...
+- Responsable POA: à définir...
+- Responsable AGP: à définir...
+- Responsable APP: à définir...
+
 ### Communication
-### Macro-planning
+**Client-Fournisseur :**
+- Discord : Pour les questions,retours et prise de décisions
+- Github: Pour le suivi du projet, et les livrables
+- Physique : Lors des réunions
+
+**Equipe:**
+- Discord
+- Physique 
+### Macro-planning : 
 
 Ceci est un macro planning 
 
@@ -53,6 +67,7 @@ POA               :2023-01-01,2023-05-01
 APP      :2023-01-20,2023-05-01
 AGP    :2023-01-20,2023-05-01
 ```
+
 
 ## Développement du projet
 Ceci est l'organisation du projet
