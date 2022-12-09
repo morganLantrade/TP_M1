@@ -36,7 +36,7 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 
 ### Communication
 **Client-Fournisseur :**
-- Discord : Pour les questions,retours et prise de décisions
+- Discord : Pour les questions, retours et prise de décisions
 - Github: Pour le suivi du projet, et les livrables
 - Physique : Lors des réunions
 
@@ -45,13 +45,12 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 - Physique 
 ### Macro-planning organisation projet : 
 
-Ceci est un macro planning 
 
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 
-title MACRO-PLANNING
+title MACRO-PLANNING ORGANISATION PROJET
 
 section Organisation projet
 Prise de connaissance du projet            :done,    des1, 2022-11-20,18d
@@ -87,10 +86,15 @@ Ceci est l'organisation du projet
 - numpy  
 - à définir...
 
+### Processus outillé de génération de modèle de performance (POA)
+Responsable: à définir
+###  Application de  génération de polaire  (AGP)
+Responsable: à définir
+###  Application de prédiction de performance (APP)
+Responsable: à définir
 
-### Macro-planning développement projet : 
+## Macro-planning développement projet : 
 
-Ceci est un macro planning 
 
 ```mermaid
 gantt
