@@ -13,7 +13,7 @@
 Ceci est un contexte
 #### Objectifs
 Ceci est une description
-![Trombinoscope](https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/projet.png)
+![Trombinoscope](https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/projet2.png)
 Les besoins et contraintes du projet sont disponibles sur ce lien du  [backlog](https://docs.google.com/spreadsheets/d/16Uc-_3CkTmRhTnL7Bv5lchy09DF-uITX/edit?usp=sharing&ouid=103043773177032282236&rtpof=true&sd=true)
 
 ## Livrables du projet
@@ -43,6 +43,7 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 **Equipe:**
 - Discord
 - Physique 
+
 ### Macro-planning organisation projet : 
 
 
