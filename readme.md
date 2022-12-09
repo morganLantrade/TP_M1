@@ -39,7 +39,8 @@ Ceci est l'organisation du projet
 |  **Langage**  | Python    |Python|C ou C#|
 |  **Environnement**  |Windows et Linux 64    |Windows et Linux 64|Windows et Linux 64|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
- **Bibliothèques**  
+
+**Bibliothèques**  
 - sklean
 - seaborn 
 - matplotlib 
