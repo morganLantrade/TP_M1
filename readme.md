@@ -96,7 +96,7 @@ Activités:...
 Responsable: à définir
 Activités:...
 ### Processus du projet
-<img src="https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/dev.png" alt="drawing" width="1200"/>
+<img src="https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/dev2.png" alt="drawing" width="1200"/>
 
 ### Macro-planning développement projet : 
 
