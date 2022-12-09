@@ -71,14 +71,14 @@ AGP    :2023-01-20,2023-05-01
 ## Développement du projet
 Ceci est l'organisation du projet
 
-### Outils de développement
+#### Outils de développement
 | |**Processus outillé de génération de modèle de performance (POA)**|**Application de  génération de polaire  (AGP)**|**Application de prédiction de performance (APP)**|
 |:--------:|:-----------|:-------------|:-----------|
 |  **Langage**  | Python    |Python|C ou C#|
 |  **Environnement**  |Windows et Linux 64    |Windows et Linux 64|Windows et Linux 64|
 |  **Fichiers**  |   readme,config    |readme,config |readme,config |
  
- **Bibliothèques**  
+##### Bibliothèques
 - sklean
 - seaborn 
 - matplotlib 
@@ -86,14 +86,17 @@ Ceci est l'organisation du projet
 - numpy  
 - à définir...
 
-### Processus outillé de génération de modèle de performance (POA)
+#### Processus outillé de génération de modèle de performance (POA)
 Responsable: à définir
-###  Application de  génération de polaire  (AGP)
+Activités:...
+####  Application de  génération de polaire  (AGP)
 Responsable: à définir
-###  Application de prédiction de performance (APP)
+Activités:...
+####  Application de prédiction de performance (APP)
 Responsable: à définir
+Activités:...
 
-## Macro-planning développement projet : 
+### Macro-planning développement projet : 
 
 
 ```mermaid
