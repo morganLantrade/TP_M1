@@ -43,7 +43,7 @@ Nous travaillerons essentiellement en groupe et définirons au début de la réa
 **Equipe:**
 - Discord
 - Physique 
-### Macro-planning : 
+### Macro-planning organisation projet : 
 
 Ceci est un macro planning 
 
@@ -86,3 +86,35 @@ Ceci est l'organisation du projet
 - pandas 
 - numpy  
 - à définir...
+
+
+### Macro-planning développement projet : 
+
+Ceci est un macro planning 
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+
+title MACRO-PLANNING
+
+section Developpement projet
+POA               :2023-01-01,2023-05-01
+APP      :2023-01-20,2023-05-01
+AGP    :2023-01-20,2023-05-01
+
+section POA
+POA               :2023-01-01,2023-05-01
+APP      :2023-01-20,2023-05-01
+AGP    :2023-01-20,2023-05-01
+
+section AGP
+POA               :2023-01-01,2023-05-01
+APP      :2023-01-20,2023-05-01
+AGP    :2023-01-20,2023-05-01
+
+section APP
+POA               :2023-01-01,2023-05-01
+APP      :2023-01-20,2023-05-01
+AGP    :2023-01-20,2023-05-01
+```
