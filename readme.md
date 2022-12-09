@@ -45,7 +45,8 @@ Kick-of meeting               :active,  des2, 2022-11-30,9d
 Projet V1               	:         des3, 2023-01-01,2023-02-17
 Projet V2                :        des4, 2023-02-17,2023-03-17
 Projet V3                 :        des5, 2023-03-17,2023-04-14
-Rendu projet                :        after des5,20d
+Soutenance projet                :        after des5,2023-05-01
+Rendu projet                :        after des5,2023-05-01
 
 section Developpement projet
 POA               :2023-01-01,2023-05-01
