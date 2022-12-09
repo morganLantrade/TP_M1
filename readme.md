@@ -96,7 +96,7 @@ Ceci est un macro planning
 gantt
 dateFormat  YYYY-MM-DD
 
-title MACRO-PLANNING
+title MACRO-PLANNING DEVELOPPEMENT PROJET
 
 section Developpement projet
 POA               :2023-01-01,2023-05-01
@@ -104,17 +104,15 @@ APP      :2023-01-20,2023-05-01
 AGP    :2023-01-20,2023-05-01
 
 section POA
-POA               :2023-01-01,2023-05-01
-APP      :2023-01-20,2023-05-01
-AGP    :2023-01-20,2023-05-01
+Création MP basique               :2023-01-01,2023-01-20
+APP      :2023-01-20,20d
+AGP    :2023-01-20,40d
 
 section AGP
-POA               :2023-01-01,2023-05-01
 APP      :2023-01-20,2023-05-01
 AGP    :2023-01-20,2023-05-01
 
 section APP
-POA               :2023-01-01,2023-05-01
 APP      :2023-01-20,2023-05-01
 AGP    :2023-01-20,2023-05-01
 ```
