@@ -5,7 +5,7 @@
 
 **-Equipe Dual Boat** 
 
-![Trombinoscope](https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/DUAL_BOAT.png)
+<img src="https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/DUAL_BOAT.png" alt="drawing" width="500"/>
 
 ## Description et objectifs du projet
 #### Contexte
