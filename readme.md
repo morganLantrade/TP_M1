@@ -40,7 +40,7 @@ dateFormat  YYYY-MM-DD
 title MACRO-PLANNING
 
 section Organisation projet
-Prise de connaissance du projet            :done,    des1, 2022-11-20,2022-12-8
+Prise de connaissance du projet           :done,    des1, 2022-11-20,18d
 Kick-of meeting               :active,  des2, 2022-12-8,2022-12-9
 Projet V1               	:         des3, 2023-01-01,2023-02-17
 Projet V2                :        des4, 2023-02-17,2023-03-17
