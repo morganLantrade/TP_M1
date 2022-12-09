@@ -41,7 +41,7 @@ title MACRO-PLANNING
 
 section Organisation projet
 Prise de connaissance du projet           :done,    des1, 2022-11-20,18d
-Kick-of meeting               :active,  des2, 2022-12-1,2022-12-9
+Kick-of meeting               :active,  des2, 2022-12-1,8d
 Projet V1               	:         des3, 2023-01-01,2023-02-17
 Projet V2                :        des4, 2023-02-17,2023-03-17
 Projet V3                 :        des5, 2023-03-17,2023-04-14
