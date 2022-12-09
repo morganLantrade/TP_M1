@@ -1,6 +1,9 @@
 # Projet : Constitution dynamique d’un modèle de performance de voilier par apprentissage
+
 **-Client :** M. GiIles LEPINARD
+
 **-Enseignant référent:** M. GiIles LEPINARD
+
 **-Equipe Dual Boat** 
 
 <img src="https://github.com/morganLantrade/TP_M1/raw/main/assets_readme/DUAL_BOAT.png" alt="drawing" width="500"/>
