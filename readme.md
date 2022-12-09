@@ -36,15 +36,16 @@ Ceci est un macro planning
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
 
-section A section
-Prise de connaissance du projet            :done,    des1, 2022-11-20,2022-12-20
-Kick-of meeting               :active,  des2, 2022-12-20,2022-12-21
+title MACRO-PLANNING
+
+section Organisation projet
+Prise de connaissance du projet            :done,    des1, 2022-11-20,2022-12-8
+Kick-of meeting               :active,  des2, 2022-12-8,2022-12-9
 Projet V1               	:         des3, 2023-01-01,2023-02-17
 Projet V2                :        des4, 2023-02-17,2023-03-17
 Projet V3                 :        des5, 2023-03-17,2023-04-14
-Rendu projet                :        after des5,20d
+Rendu projet                :        after des5,40d
 ```
 
 
