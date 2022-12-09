@@ -48,9 +48,9 @@ Projet V3                 :        des5, 2023-03-17,2023-04-14
 Rendu projet                :        after des5,20d
 
 section Developpement projet
-POA               :after des1,2023-05-01
-APP      :2023-01-01,2023-05-01
-AGP    :2023-01-01,2023-05-01
+POA               :2023-01-01,2023-05-01
+APP      :2023-01-20,2023-05-01
+AGP    :2023-01-20,2023-05-01
 ```
 
 ## Développement du projet
